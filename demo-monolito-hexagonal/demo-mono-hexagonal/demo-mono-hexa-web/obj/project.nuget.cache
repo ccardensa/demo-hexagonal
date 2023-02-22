@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QdreHIfC0sxFgU1bpr2H+rFVKZN01vs4XvBjlbFsyhzNAeluf6+ZYTdc+Rz97p/HH2Ctgf+DbEpwk514bNiNCQ==",
+  "success": true,
+  "projectFilePath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo-mono-hexa-web\\demo-mono-hexa-web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccard\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ccard\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ccard\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ccard\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ccard\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ccard\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
