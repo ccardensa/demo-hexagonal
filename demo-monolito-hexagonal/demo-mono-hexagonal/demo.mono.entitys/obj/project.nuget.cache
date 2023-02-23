@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7D9cdproKgnawt6ZgCWGXjyYi65b5Z7ECq1ddaCrKjKkiCShII8zTPkl6psmGKGrABSUq3fVAsrRaK3Q7ELIVw==",
+  "dgSpecHash": "iBw9L8gnz6THJmIaXWCytQn+1K1I5TFIbGDATzsAQVeBdAtpuX3fp0AVYrnVtCo7U82J7M9fPIaWDwzNLdBJMQ==",
   "success": true,
-  "projectFilePath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.entitys\\demo.mono.infra.entitys.csproj",
+  "projectFilePath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.entitys\\demo.mono.infra.entitys.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -20,7 +20,8 @@ namespace demo.mono.hexa.API.Controllers
 
         // GET: Login
         [HttpGet(Name = "GetLogin")]
-        public ActionResult Index(string user, string pass)
+        [Route("GetLogin")]
+        public IActionResult Index(string user, string pass)
         {
             if (string.IsNullOrEmpty(user)) 
                 throw new ArgumentNullException(nameof(user));
@@ -32,73 +33,15 @@ namespace demo.mono.hexa.API.Controllers
             return StatusCode(200);
         }
 
-        [HttpPost(Name = "GetLogin")]
-        public ActionResult Details(int id)
+        [HttpPost(Name = "GetLoginDetails")]
+        [Route("GetLoginDetails")]
+        public IActionResult Details(int id)
         {
             return StatusCode(200);
         }
 
-        [HttpPost(Name = "GetLogin")]
-        public ActionResult Create()
-        {
-            return StatusCode(200);
-        }
+ 
 
-        //// POST: Login/Create
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult Create(IFormCollection collection)
-        //{
-        //    try
-        //    {
-        //        return StatusCode(501);
-        //    }
-        //    catch
-        //    {
-        //        return StatusCode(501);
-        //    }
-        //}
-
-        //// GET: Login/Edit/5
-        //public ActionResult Edit(int id)
-        //{
-        //    return StatusCode(501);
-        //}
-
-        //// POST: Login/Edit/5
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult Edit(int id, IFormCollection collection)
-        //{
-        //    try
-        //    {
-        //        return StatusCode(501);
-        //    }
-        //    catch
-        //    {
-        //        return StatusCode(501);
-        //    }
-        //}
-
-        //// GET: Login/Delete/5
-        //public ActionResult Delete(int id)
-        //{
-        //    return StatusCode(501);
-        //}
-
-        //// POST: Login/Delete/5
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult Delete(int id, IFormCollection collection)
-        //{
-        //    try
-        //    {
-        //        return StatusCode(501);
-        //    }
-        //    catch
-        //    {
-        //        return StatusCode(501);
-        //    }
-        //}
+        
     }
 }

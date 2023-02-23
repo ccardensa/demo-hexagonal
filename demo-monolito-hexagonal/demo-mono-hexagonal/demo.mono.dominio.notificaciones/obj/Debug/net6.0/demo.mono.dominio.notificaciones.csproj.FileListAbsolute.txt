@@ -10,3 +10,15 @@ C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mon
 C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\obj\Debug\net6.0\refint\demo.mono.dominio.notificaciones.dll
 C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\obj\Debug\net6.0\demo.mono.dominio.notificaciones.pdb
 C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\obj\Debug\net6.0\ref\demo.mono.dominio.notificaciones.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\bin\Debug\net6.0\demo.mono.dominio.notificaciones.deps.json
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\bin\Debug\net6.0\demo.mono.dominio.notificaciones.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\bin\Debug\net6.0\demo.mono.dominio.notificaciones.pdb
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\obj\Debug\net6.0\demo.mono.dominio.notificaciones.csproj.AssemblyReference.cache
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\obj\Debug\net6.0\demo.mono.dominio.notificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\obj\Debug\net6.0\demo.mono.dominio.notificaciones.AssemblyInfoInputs.cache
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\obj\Debug\net6.0\demo.mono.dominio.notificaciones.AssemblyInfo.cs
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\obj\Debug\net6.0\demo.mono.dominio.notificaciones.csproj.CoreCompileInputs.cache
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\obj\Debug\net6.0\demo.mono.dominio.notificaciones.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\obj\Debug\net6.0\refint\demo.mono.dominio.notificaciones.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\obj\Debug\net6.0\demo.mono.dominio.notificaciones.pdb
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.notificaciones\obj\Debug\net6.0\ref\demo.mono.dominio.notificaciones.dll

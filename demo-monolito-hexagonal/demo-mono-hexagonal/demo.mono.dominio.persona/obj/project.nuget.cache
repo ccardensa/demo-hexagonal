@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QzwAzbJnfnXOMYvsdO/zSnu2K+AmG5/YbEmVbJO8kVLyH2C5Sgf3uTjfxCrXGTF7ROIX5KG/VGJ5nj0u7I6D6A==",
+  "dgSpecHash": "DDfT+ZaLNYB0YY8YDDc6EaBVrS6zca/C1nR/ln2aKyMQvKS7LvIOpq5yCgIDR7JZKDZkc2f90rXy5tEnoNlYKA==",
   "success": true,
-  "projectFilePath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.persona\\demo.mono.dominio.persona.csproj",
+  "projectFilePath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.persona\\demo.mono.dominio.persona.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

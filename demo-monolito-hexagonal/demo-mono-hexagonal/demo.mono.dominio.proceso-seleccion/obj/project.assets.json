@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.proceso-seleccion\\demo.mono.dominio.proceso-seleccion.csproj",
+      "projectUniqueName": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.proceso-seleccion\\demo.mono.dominio.proceso-seleccion.csproj",
       "projectName": "demo.mono.dominio.proceso-seleccion",
-      "projectPath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.proceso-seleccion\\demo.mono.dominio.proceso-seleccion.csproj",
+      "projectPath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.proceso-seleccion\\demo.mono.dominio.proceso-seleccion.csproj",
       "packagesPath": "C:\\Users\\ccard\\.nuget\\packages\\",
-      "outputPath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.proceso-seleccion\\obj\\",
+      "outputPath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.proceso-seleccion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ccard\\AppData\\Roaming\\NuGet\\NuGet.Config",

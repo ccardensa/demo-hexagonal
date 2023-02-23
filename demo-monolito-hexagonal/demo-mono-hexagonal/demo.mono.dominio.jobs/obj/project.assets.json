@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.jobs\\demo.mono.dominio.jobs.csproj",
+      "projectUniqueName": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.jobs\\demo.mono.dominio.jobs.csproj",
       "projectName": "demo.mono.dominio.jobs",
-      "projectPath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.jobs\\demo.mono.dominio.jobs.csproj",
+      "projectPath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.jobs\\demo.mono.dominio.jobs.csproj",
       "packagesPath": "C:\\Users\\ccard\\.nuget\\packages\\",
-      "outputPath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.jobs\\obj\\",
+      "outputPath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.jobs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ccard\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.persona\\demo.mono.dominio.persona.csproj": {}
+    "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.persona\\demo.mono.dominio.persona.csproj": {}
   },
   "projects": {
-    "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.persona\\demo.mono.dominio.persona.csproj": {
+    "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.persona\\demo.mono.dominio.persona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.persona\\demo.mono.dominio.persona.csproj",
+        "projectUniqueName": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.persona\\demo.mono.dominio.persona.csproj",
         "projectName": "demo.mono.dominio.persona",
-        "projectPath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.persona\\demo.mono.dominio.persona.csproj",
+        "projectPath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.persona\\demo.mono.dominio.persona.csproj",
         "packagesPath": "C:\\Users\\ccard\\.nuget\\packages\\",
-        "outputPath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.persona\\obj\\",
+        "outputPath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.persona\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ccard\\AppData\\Roaming\\NuGet\\NuGet.Config",

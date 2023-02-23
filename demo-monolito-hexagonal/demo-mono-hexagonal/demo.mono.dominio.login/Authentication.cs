@@ -5,7 +5,7 @@
       
         public bool ValidacionLogin(string user, string pass, string token)
         {
-            throw new NotImplementedException();
+            return true;
         }
     }
 }

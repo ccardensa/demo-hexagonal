@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.hexa.API\\demo.mono.hexa.API.csproj",
+      "projectUniqueName": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.hexa.API\\demo.mono.hexa.API.csproj",
       "projectName": "demo.mono.hexa.API",
-      "projectPath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.hexa.API\\demo.mono.hexa.API.csproj",
+      "projectPath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.hexa.API\\demo.mono.hexa.API.csproj",
       "packagesPath": "C:\\Users\\ccard\\.nuget\\packages\\",
-      "outputPath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.hexa.API\\obj\\",
+      "outputPath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.hexa.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ccard\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -480,8 +480,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.login\\demo.mono.dominio.login.csproj": {
-              "projectPath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.login\\demo.mono.dominio.login.csproj"
+            "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.login\\demo.mono.dominio.login.csproj": {
+              "projectPath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.login\\demo.mono.dominio.login.csproj"
             }
           }
         }

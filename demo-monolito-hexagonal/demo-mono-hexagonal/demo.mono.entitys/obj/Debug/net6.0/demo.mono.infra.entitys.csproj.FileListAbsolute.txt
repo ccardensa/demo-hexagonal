@@ -10,3 +10,15 @@ C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mon
 C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\obj\Debug\net6.0\refint\demo.mono.infra.entitys.dll
 C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\obj\Debug\net6.0\demo.mono.infra.entitys.pdb
 C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\obj\Debug\net6.0\ref\demo.mono.infra.entitys.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\bin\Debug\net6.0\demo.mono.infra.entitys.deps.json
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\bin\Debug\net6.0\demo.mono.infra.entitys.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\bin\Debug\net6.0\demo.mono.infra.entitys.pdb
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\obj\Debug\net6.0\demo.mono.infra.entitys.csproj.AssemblyReference.cache
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\obj\Debug\net6.0\demo.mono.infra.entitys.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\obj\Debug\net6.0\demo.mono.infra.entitys.AssemblyInfoInputs.cache
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\obj\Debug\net6.0\demo.mono.infra.entitys.AssemblyInfo.cs
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\obj\Debug\net6.0\demo.mono.infra.entitys.csproj.CoreCompileInputs.cache
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\obj\Debug\net6.0\demo.mono.infra.entitys.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\obj\Debug\net6.0\refint\demo.mono.infra.entitys.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\obj\Debug\net6.0\demo.mono.infra.entitys.pdb
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.entitys\obj\Debug\net6.0\ref\demo.mono.infra.entitys.dll

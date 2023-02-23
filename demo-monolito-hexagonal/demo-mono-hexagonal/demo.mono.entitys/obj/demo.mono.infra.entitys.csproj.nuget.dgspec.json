@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.entitys\\demo.mono.infra.entitys.csproj": {}
+    "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.entitys\\demo.mono.infra.entitys.csproj": {}
   },
   "projects": {
-    "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.entitys\\demo.mono.infra.entitys.csproj": {
+    "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.entitys\\demo.mono.infra.entitys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.entitys\\demo.mono.infra.entitys.csproj",
+        "projectUniqueName": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.entitys\\demo.mono.infra.entitys.csproj",
         "projectName": "demo.mono.infra.entitys",
-        "projectPath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.entitys\\demo.mono.infra.entitys.csproj",
+        "projectPath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.entitys\\demo.mono.infra.entitys.csproj",
         "packagesPath": "C:\\Users\\ccard\\.nuget\\packages\\",
-        "outputPath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.entitys\\obj\\",
+        "outputPath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.entitys\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ccard\\AppData\\Roaming\\NuGet\\NuGet.Config",

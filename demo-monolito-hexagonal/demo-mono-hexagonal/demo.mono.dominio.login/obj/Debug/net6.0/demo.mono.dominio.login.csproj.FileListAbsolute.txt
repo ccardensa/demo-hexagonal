@@ -10,3 +10,15 @@ C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mon
 C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\obj\Debug\net6.0\refint\demo.mono.dominio.login.dll
 C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\obj\Debug\net6.0\demo.mono.dominio.login.pdb
 C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\obj\Debug\net6.0\ref\demo.mono.dominio.login.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\bin\Debug\net6.0\demo.mono.dominio.login.deps.json
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\bin\Debug\net6.0\demo.mono.dominio.login.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\bin\Debug\net6.0\demo.mono.dominio.login.pdb
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\obj\Debug\net6.0\demo.mono.dominio.login.csproj.AssemblyReference.cache
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\obj\Debug\net6.0\demo.mono.dominio.login.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\obj\Debug\net6.0\demo.mono.dominio.login.AssemblyInfoInputs.cache
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\obj\Debug\net6.0\demo.mono.dominio.login.AssemblyInfo.cs
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\obj\Debug\net6.0\demo.mono.dominio.login.csproj.CoreCompileInputs.cache
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\obj\Debug\net6.0\demo.mono.dominio.login.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\obj\Debug\net6.0\refint\demo.mono.dominio.login.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\obj\Debug\net6.0\demo.mono.dominio.login.pdb
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.login\obj\Debug\net6.0\ref\demo.mono.dominio.login.dll

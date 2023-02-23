@@ -10,3 +10,15 @@ C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mon
 C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\obj\Debug\net6.0\refint\demo.mono.dominio.proceso-seleccion.dll
 C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\obj\Debug\net6.0\demo.mono.dominio.proceso-seleccion.pdb
 C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\obj\Debug\net6.0\ref\demo.mono.dominio.proceso-seleccion.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\bin\Debug\net6.0\demo.mono.dominio.proceso-seleccion.deps.json
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\bin\Debug\net6.0\demo.mono.dominio.proceso-seleccion.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\bin\Debug\net6.0\demo.mono.dominio.proceso-seleccion.pdb
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\obj\Debug\net6.0\demo.mono.dominio.proceso-seleccion.csproj.AssemblyReference.cache
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\obj\Debug\net6.0\demo.mono.dominio.proceso-seleccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\obj\Debug\net6.0\demo.mono.dominio.proceso-seleccion.AssemblyInfoInputs.cache
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\obj\Debug\net6.0\demo.mono.dominio.proceso-seleccion.AssemblyInfo.cs
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\obj\Debug\net6.0\demo.mono.dominio.proceso-seleccion.csproj.CoreCompileInputs.cache
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\obj\Debug\net6.0\demo.mono.dominio.proceso-seleccion.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\obj\Debug\net6.0\refint\demo.mono.dominio.proceso-seleccion.dll
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\obj\Debug\net6.0\demo.mono.dominio.proceso-seleccion.pdb
+C:\git-ccardenas\demo-hexagonal\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.proceso-seleccion\obj\Debug\net6.0\ref\demo.mono.dominio.proceso-seleccion.dll

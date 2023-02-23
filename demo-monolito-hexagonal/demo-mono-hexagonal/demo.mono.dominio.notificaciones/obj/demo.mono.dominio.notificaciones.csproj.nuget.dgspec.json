@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.notificaciones\\demo.mono.dominio.notificaciones.csproj": {}
+    "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.notificaciones\\demo.mono.dominio.notificaciones.csproj": {}
   },
   "projects": {
-    "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.notificaciones\\demo.mono.dominio.notificaciones.csproj": {
+    "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.notificaciones\\demo.mono.dominio.notificaciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.notificaciones\\demo.mono.dominio.notificaciones.csproj",
+        "projectUniqueName": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.notificaciones\\demo.mono.dominio.notificaciones.csproj",
         "projectName": "demo.mono.dominio.notificaciones",
-        "projectPath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.notificaciones\\demo.mono.dominio.notificaciones.csproj",
+        "projectPath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.notificaciones\\demo.mono.dominio.notificaciones.csproj",
         "packagesPath": "C:\\Users\\ccard\\.nuget\\packages\\",
-        "outputPath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.notificaciones\\obj\\",
+        "outputPath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.notificaciones\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ccard\\AppData\\Roaming\\NuGet\\NuGet.Config",

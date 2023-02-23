@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yv0jgaWvxuaNnd8QZAgohEQEKSc1tiIKbK91P/3IV0BroEx13ThhvAAma1IFp5z22KCpFlgRbBAR5M/lStjurA==",
+  "dgSpecHash": "sGjV+fb6RhFTni5tydT3+DwV1eEPWAykg2YgXHlcZqlvkCoq686cncHZ+6qGrb5hl2TDPaA6oI4B/6jboGBSuQ==",
   "success": true,
-  "projectFilePath": "C:\\git-ccardenas\\demo-joaco\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.proceso-seleccion\\demo.mono.dominio.proceso-seleccion.csproj",
+  "projectFilePath": "C:\\git-ccardenas\\demo-hexagonal\\demo-monolito-hexagonal\\demo-mono-hexagonal\\demo.mono.dominio.proceso-seleccion\\demo.mono.dominio.proceso-seleccion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
