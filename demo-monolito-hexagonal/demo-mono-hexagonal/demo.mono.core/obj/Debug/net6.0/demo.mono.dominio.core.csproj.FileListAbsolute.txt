@@ -1,0 +1,12 @@
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.core\bin\Debug\net6.0\demo.mono.dominio.core.deps.json
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.core\bin\Debug\net6.0\demo.mono.dominio.core.dll
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.core\bin\Debug\net6.0\demo.mono.dominio.core.pdb
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.core\obj\Debug\net6.0\demo.mono.dominio.core.csproj.AssemblyReference.cache
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.core\obj\Debug\net6.0\demo.mono.dominio.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.core\obj\Debug\net6.0\demo.mono.dominio.core.AssemblyInfoInputs.cache
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.core\obj\Debug\net6.0\demo.mono.dominio.core.AssemblyInfo.cs
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.core\obj\Debug\net6.0\demo.mono.dominio.core.csproj.CoreCompileInputs.cache
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.core\obj\Debug\net6.0\demo.mono.dominio.core.dll
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.core\obj\Debug\net6.0\refint\demo.mono.dominio.core.dll
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.core\obj\Debug\net6.0\demo.mono.dominio.core.pdb
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.core\obj\Debug\net6.0\ref\demo.mono.dominio.core.dll

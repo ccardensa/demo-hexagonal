@@ -1,0 +1,12 @@
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.historial-log\bin\Debug\net6.0\demo.mono.dominio.historial-log.deps.json
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.historial-log\bin\Debug\net6.0\demo.mono.dominio.historial-log.dll
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.historial-log\bin\Debug\net6.0\demo.mono.dominio.historial-log.pdb
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.historial-log\obj\Debug\net6.0\demo.mono.dominio.historial-log.csproj.AssemblyReference.cache
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.historial-log\obj\Debug\net6.0\demo.mono.dominio.historial-log.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.historial-log\obj\Debug\net6.0\demo.mono.dominio.historial-log.AssemblyInfoInputs.cache
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.historial-log\obj\Debug\net6.0\demo.mono.dominio.historial-log.AssemblyInfo.cs
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.historial-log\obj\Debug\net6.0\demo.mono.dominio.historial-log.csproj.CoreCompileInputs.cache
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.historial-log\obj\Debug\net6.0\demo.mono.dominio.historial-log.dll
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.historial-log\obj\Debug\net6.0\refint\demo.mono.dominio.historial-log.dll
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.historial-log\obj\Debug\net6.0\demo.mono.dominio.historial-log.pdb
+C:\git-ccardenas\demo-joaco\demo-monolito-hexagonal\demo-mono-hexagonal\demo.mono.dominio.historial-log\obj\Debug\net6.0\ref\demo.mono.dominio.historial-log.dll

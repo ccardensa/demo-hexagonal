@@ -16,3 +16,12 @@ futuro sea lo menor posible
 
 
 #Consideraciones generales
+
+- La solución considera LOG nativo para la gestión y traza de errores por lo tanto no es necesario agregar librerias adicionales
+- La solución considera la utilización de Inyección de dependencias, por ningún motivo utilizar NEW para la incialización de clases
+- El middleware está configurado con Swagger
+- En la capa de infraestructura si bien debe existir un solo contexto, ese contexto en el futuro si se migran las apis, estás deben tener un contexto con las entidades a utilizar.
+Lo anterior se puede utilizar separando el modelo en esquemas
+- Cada dominio debe tener su propio negocio y utilidades, por lo cual no pueden compartir reglas o utilidades
+- Base de datos a utilizar en este demo es PostgreSQL
+- La solución de API no considera Docker, pero si se debe considerar en una futura migración

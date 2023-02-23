@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "demo.mono.dominio.proceso-seleccion/1.0.0": {
+        "runtime": {
+          "demo.mono.dominio.proceso-seleccion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "demo.mono.dominio.proceso-seleccion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

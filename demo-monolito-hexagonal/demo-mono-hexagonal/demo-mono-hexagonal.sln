@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo-mono-hexa-web", "demo-mono-hexa-web\demo-mono-hexa-web.csproj", "{08E5F25F-57A6-418E-8DE9-1A859A59CFCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo-mono-hexa-web", "demo-mono-hexa-web\demo-mono-hexa-web.csproj", "{08E5F25F-57A6-418E-8DE9-1A859A59CFCD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructura", "Infraestructura", "{FC3E99DC-6E7A-4CCA-9AEB-F53D45FCEB0B}"
 EndProject
@@ -14,25 +14,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{C2CE
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{CB036367-7EE1-4F53-B98E-DB309387BD0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo.mono.infra.data", "demo-mono-data\demo.mono.infra.data.csproj", "{7239B337-9F4C-4AEB-B2E1-4048E6D1776E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo.mono.infra.data", "demo-mono-data\demo.mono.infra.data.csproj", "{7239B337-9F4C-4AEB-B2E1-4048E6D1776E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo.mono.infra.entitys", "demo.mono.entitys\demo.mono.infra.entitys.csproj", "{D474DCD1-3319-4907-8F0B-0D24084F5F3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo.mono.infra.entitys", "demo.mono.entitys\demo.mono.infra.entitys.csproj", "{D474DCD1-3319-4907-8F0B-0D24084F5F3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo.mono.dominio.core", "demo.mono.core\demo.mono.dominio.core.csproj", "{72AA1756-CE66-4B73-B7E9-BA2FD2B7E519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo.mono.dominio.core", "demo.mono.core\demo.mono.dominio.core.csproj", "{72AA1756-CE66-4B73-B7E9-BA2FD2B7E519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo.mono.infra.utils", "demo.mono.utils\demo.mono.infra.utils.csproj", "{AD32F90B-058E-4D3A-B79D-CA10B0D8EBC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo.mono.dominio.persona", "demo.mono.dominio.persona\demo.mono.dominio.persona.csproj", "{F481335B-9626-47E6-B905-6A239A00D09F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo.mono.dominio.persona", "demo.mono.dominio.persona\demo.mono.dominio.persona.csproj", "{F481335B-9626-47E6-B905-6A239A00D09F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo.mono.dominio.proceso-seleccion", "demo.mono.dominio.proceso-seleccion\demo.mono.dominio.proceso-seleccion.csproj", "{D089178B-86B4-4831-A634-78054D141244}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo.mono.dominio.proceso-seleccion", "demo.mono.dominio.proceso-seleccion\demo.mono.dominio.proceso-seleccion.csproj", "{D089178B-86B4-4831-A634-78054D141244}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo.mono.dominio.login", "demo.mono.dominio.login\demo.mono.dominio.login.csproj", "{3ED0AED0-A90D-4ACD-9BFC-501E73C12CE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo.mono.dominio.login", "demo.mono.dominio.login\demo.mono.dominio.login.csproj", "{3ED0AED0-A90D-4ACD-9BFC-501E73C12CE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo.mono.dominio.notificaciones", "demo.mono.dominio.notificaciones\demo.mono.dominio.notificaciones.csproj", "{5A613BFF-9C72-41A4-A373-E064326391AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo.mono.dominio.notificaciones", "demo.mono.dominio.notificaciones\demo.mono.dominio.notificaciones.csproj", "{5A613BFF-9C72-41A4-A373-E064326391AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo.mono.dominio.historial-log", "demo.mono.dominio.historial-log\demo.mono.dominio.historial-log.csproj", "{C573E7AD-89A7-4962-A35D-F006E46E071C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo.mono.dominio.historial-log", "demo.mono.dominio.historial-log\demo.mono.dominio.historial-log.csproj", "{C573E7AD-89A7-4962-A35D-F006E46E071C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo.mono.dominio.jobs", "demo.mono.dominio.jobs\demo.mono.dominio.jobs.csproj", "{FCF34B81-9931-4F42-A7F4-CDB4C13EC277}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo.mono.dominio.jobs", "demo.mono.dominio.jobs\demo.mono.dominio.jobs.csproj", "{FCF34B81-9931-4F42-A7F4-CDB4C13EC277}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplicacion", "Aplicacion", "{2B5B518D-7E8E-471A-8EE3-A7C1CC1C158A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo.mono.hexa.API", "demo.mono.hexa.API\demo.mono.hexa.API.csproj", "{64DC131A-49CF-4BEC-A0F9-8383C1B2E24A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,10 +58,6 @@ Global
 		{72AA1756-CE66-4B73-B7E9-BA2FD2B7E519}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72AA1756-CE66-4B73-B7E9-BA2FD2B7E519}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72AA1756-CE66-4B73-B7E9-BA2FD2B7E519}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AD32F90B-058E-4D3A-B79D-CA10B0D8EBC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AD32F90B-058E-4D3A-B79D-CA10B0D8EBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AD32F90B-058E-4D3A-B79D-CA10B0D8EBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AD32F90B-058E-4D3A-B79D-CA10B0D8EBC8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F481335B-9626-47E6-B905-6A239A00D09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F481335B-9626-47E6-B905-6A239A00D09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F481335B-9626-47E6-B905-6A239A00D09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -84,6 +82,10 @@ Global
 		{FCF34B81-9931-4F42-A7F4-CDB4C13EC277}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCF34B81-9931-4F42-A7F4-CDB4C13EC277}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCF34B81-9931-4F42-A7F4-CDB4C13EC277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64DC131A-49CF-4BEC-A0F9-8383C1B2E24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DC131A-49CF-4BEC-A0F9-8383C1B2E24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DC131A-49CF-4BEC-A0F9-8383C1B2E24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DC131A-49CF-4BEC-A0F9-8383C1B2E24A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,13 +95,13 @@ Global
 		{7239B337-9F4C-4AEB-B2E1-4048E6D1776E} = {FC3E99DC-6E7A-4CCA-9AEB-F53D45FCEB0B}
 		{D474DCD1-3319-4907-8F0B-0D24084F5F3F} = {FC3E99DC-6E7A-4CCA-9AEB-F53D45FCEB0B}
 		{72AA1756-CE66-4B73-B7E9-BA2FD2B7E519} = {C2CEF841-1FAD-4A4E-A063-8779CA115307}
-		{AD32F90B-058E-4D3A-B79D-CA10B0D8EBC8} = {FC3E99DC-6E7A-4CCA-9AEB-F53D45FCEB0B}
 		{F481335B-9626-47E6-B905-6A239A00D09F} = {C2CEF841-1FAD-4A4E-A063-8779CA115307}
 		{D089178B-86B4-4831-A634-78054D141244} = {C2CEF841-1FAD-4A4E-A063-8779CA115307}
 		{3ED0AED0-A90D-4ACD-9BFC-501E73C12CE4} = {C2CEF841-1FAD-4A4E-A063-8779CA115307}
 		{5A613BFF-9C72-41A4-A373-E064326391AA} = {C2CEF841-1FAD-4A4E-A063-8779CA115307}
 		{C573E7AD-89A7-4962-A35D-F006E46E071C} = {C2CEF841-1FAD-4A4E-A063-8779CA115307}
 		{FCF34B81-9931-4F42-A7F4-CDB4C13EC277} = {C2CEF841-1FAD-4A4E-A063-8779CA115307}
+		{64DC131A-49CF-4BEC-A0F9-8383C1B2E24A} = {2B5B518D-7E8E-471A-8EE3-A7C1CC1C158A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D1B3BCE9-9428-4FA0-A1E5-6272E9070629}
